@@ -1,4 +1,4 @@
-Caldera Products Service
+Express Boilerplate
 ---------------
 
 Dependencies
